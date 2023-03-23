@@ -1,0 +1,18 @@
+Feedback comments:
+Here is the feedback and marks breakdown. 
+The report has a clear structure. In the introduction, existing works based on peer review prediction should be
+discussed. In the data preparation, most parts are not specific to this coursework but give a general 
+description only (except for data splitting). 
+In the experiment, it is better to include experimental settings.
+
+Here is the marks breakdown: 
+Problem understanding and background research: 11; 
+EDA and data preparation: 16; 
+ML implementation and experiments: 36; 
+Ethical discussion: 6; 
+Discussion and conclusions: 8. 
+For more details consult the marking scheme document available on moodle.
+
+
+Grade	77.00 / 100.00
+Graded on	Friday, 27 May 2022, 10:04 AM
